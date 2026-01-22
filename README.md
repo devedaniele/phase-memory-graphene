@@ -1,4 +1,4 @@
-# Phase-Memory State in Strained Graphene (Phenomenological Note)
+# Phase-Memory Response in Strained Graphene (Phenomenological Note)
 
 This repository contains a short, testable phenomenological proposal concerning a possible emergent state in strained graphene.  
 The intent is to highlight a specific experimental possibility that may be worth verification or falsification.
@@ -16,6 +16,8 @@ It is proposed that under **non-uniform strain gradients** and **weak oscillator
 - No measurable energy dissipation  
 
 If observed, such a response would be distinct from superconducting, topological, valley, or charge-density-wave phenomena currently cataloged in graphene systems.
+
+The proposal is framed entirely in terms of experimentally observable behavior, independent of any specific microscopic interpretation.
 
 ---
 
@@ -76,4 +78,4 @@ Its sole purpose is to suggest a **specific, experimentally testable question**.
 
 ## Status
 
-Open for verification, falsification, or reinterpretation.
+Open for independent verification, falsification, or reinterpretation using existing experimental platforms.
